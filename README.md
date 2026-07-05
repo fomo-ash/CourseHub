@@ -117,7 +117,7 @@ Authorization
 • Students can purchase courses
 
 API Protection
-• Rate limiting middleware to prevent request abuse
+• Rate limiting middleware to prevent request abuse- Token bucket Algorithm
 
 Validation
 • Request body validation using Zod schemas
